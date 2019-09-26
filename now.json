@@ -14,5 +14,6 @@
     ],
     "routes":[
         { "src": "/.*", "dest": "index.js" }
-    ]
+    ],
+    "alias": "www.parafusomodapraia.com.br"    
 }
